@@ -1,0 +1,2 @@
+# mlopsindividual
+MLOPS individual assignment
